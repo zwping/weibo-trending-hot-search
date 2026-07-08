@@ -1,6 +1,7 @@
 {
   "tasks": {
     "start": "deno run --allow-net --allow-read --allow-write --allow-env main.ts",
+    "release": "deno run --allow-net --allow-read --allow-env release.ts",
     "test": "deno test --allow-net --allow-read --allow-write"
   },
   "imports": {

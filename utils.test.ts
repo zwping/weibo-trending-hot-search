@@ -2,7 +2,25 @@
 import { assertEquals, assertStringIncludes } from "std/testing/asserts.ts";
 import type { Word } from "./types.ts";
 
-import { createArchive, createList, createReadme, mergeWords } from "./utils.ts";
+import { createArchive, createList, createReadme, mergeWords, parseWords } from "./utils.ts";
+
+Deno.test("parseWords extracts trailing tag", function (): void {
+  const html = `
+    <tr>
+      <td class="td-02">
+        <a href="/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7&t=31">阿根廷 胜</a>
+        <span>11596433</span>
+      </td>
+      <td class="td-03"><i class="icon-txt icon-txt-burst">爆</i></td>
+    </tr>
+  `;
+
+  assertEquals(parseWords(html), [{
+    title: "阿根廷 胜",
+    url: "/weibo?q=%E9%98%BF%E6%A0%B9%E5%BB%B7&t=31",
+    tag: "爆",
+  }]);
+});
 
 Deno.test("mergeWords", function (): void {
   const words1: Word[] = [];
@@ -13,6 +31,7 @@ Deno.test("mergeWords", function (): void {
     { title: "foo", url: "bar" },
     { title: "hello", url: "world" },
   ];
+  const words6: Word[] = [{ title: "foo", url: "bar", tag: "爆" }];
 
   assertEquals(mergeWords(words1, words2), words2);
   assertEquals(mergeWords(words1, words5), words5);
@@ -20,7 +39,7 @@ Deno.test("mergeWords", function (): void {
   assertEquals(
     mergeWords(words2, words3),
     [
-      { title: "foo", url: "hello" },
+      { title: "foo", url: "bar" },
     ],
   );
   assertEquals(mergeWords(words4, words5), [
@@ -30,15 +49,16 @@ Deno.test("mergeWords", function (): void {
   assertEquals(
     mergeWords(words3, words5),
     [
-      { title: "foo", url: "bar" },
+      { title: "foo", url: "hello" },
       { title: "hello", url: "world" },
     ],
   );
+  assertEquals(mergeWords(words6, words2), words6);
 });
 
 Deno.test("createList", function (): void {
   const words: Word[] = [
-    { title: "foo", url: "bar" },
+    { title: "foo", url: "bar", tag: "爆" },
     { title: "hello", url: "world" },
   ];
 
@@ -47,6 +67,7 @@ Deno.test("createList", function (): void {
   assertStringIncludes(createList(words), "foo");
   assertStringIncludes(createList(words), "world");
   assertStringIncludes(createList(words), "hello");
+  assertStringIncludes(createList(words), "[爆]");
 });
 
 Deno.test("createArchive", function (): void {

@@ -5,9 +5,7 @@ import { join } from "std/path/mod.ts";
 import { exists } from "std/fs/mod.ts";
 
 import type { Word } from "./types.ts";
-import { createArchive, createReadme, mergeWords } from "./utils.ts";
-
-const regexp = /<a href="(\/weibo\?q=[^"]+)".*?>(.+)<\/a>/g;
+import { createArchive, createReadme, mergeWords, parseWords } from "./utils.ts";
 
 const envCookie = Deno.env.get("WEIBO_COOKIE");
 if (!envCookie) {
@@ -35,12 +33,7 @@ if (!response.ok) {
 
 const result: string = await response.text();
 
-const matches = result.matchAll(regexp);
-
-const words: Word[] = Array.from(matches).map((x) => ({
-  url: x[1],
-  title: x[2],
-}));
+const words = parseWords(result);
 
 if (words.length === 0) {
   console.error(

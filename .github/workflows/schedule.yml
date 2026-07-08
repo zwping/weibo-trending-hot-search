@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: "0 * * * *"
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -11,6 +14,7 @@ jobs:
     env:
       TZ: Asia/Shanghai
       WEIBO_COOKIE: ${{ secrets.WEIBO_COOKIE }}
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
     steps:
       - name: Clone repository
@@ -30,3 +34,4 @@ jobs:
           git add .
           git diff --staged --quiet || git commit -m "update by github action"
           git push
+          deno task release
