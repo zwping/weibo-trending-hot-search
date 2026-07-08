@@ -1,6 +1,6 @@
 # weibo-trending-hot-search
 
-[![Build Status](https://github.com/justjavac/weibo-trending-hot-search/workflows/ci/badge.svg?branch=master)](https://github.com/justjavac/weibo-trending-hot-search/actions)
+[![ci](https://github.com/zwping/weibo-trending-hot-search/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/zwping/weibo-trending-hot-search/actions/workflows/ci.yml)
 [![license](https://img.shields.io/github/license/justjavac/weibo-trending-hot-search)](https://github.com/justjavac/weibo-trending-hot-search/blob/master/LICENSE)
 
 微博热搜榜，记录从 2020-11-24 日开始的微博热门搜索。每小时抓取一次数据，按天[归档](./archives)。
