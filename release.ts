@@ -87,6 +87,8 @@ async function createRelease(
       ].join("\n"),
       draft: false,
       prerelease: false,
+      // Always make the release created by this run the repository's latest.
+      make_latest: "true",
     }),
   });
 
