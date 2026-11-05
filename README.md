@@ -14,26 +14,90 @@
 ## 今日热门搜索
 
 <!-- BEGIN -->
-<!-- 最后更新时间 Thu Nov 05 2026 06:15:14 GMT+0800 (China Standard Time) -->
+<!-- 最后更新时间 Thu Nov 05 2026 10:33:20 GMT+0800 (China Standard Time) -->
 
 1. [从两座纪念碑读懂中阿千年之交](https://s.weibo.com//weibo?q=%23%E4%BB%8E%E4%B8%A4%E5%BA%A7%E7%BA%AA%E5%BF%B5%E7%A2%91%E8%AF%BB%E6%87%82%E4%B8%AD%E9%98%BF%E5%8D%83%E5%B9%B4%E4%B9%8B%E4%BA%A4%23&Refer=new_time)
    [热]
 1. [上岸第一件先娶意中人](https://s.weibo.com//weibo?q=%E4%B8%8A%E5%B2%B8%E7%AC%AC%E4%B8%80%E4%BB%B6%E5%85%88%E5%A8%B6%E6%84%8F%E4%B8%AD%E4%BA%BA&t=31&band_rank=1&Refer=top)
    [热]
-1. [高市早苗以怪异姿势面见日本天皇](https://s.weibo.com//weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E4%BB%A5%E6%80%AA%E5%BC%82%E5%A7%BF%E5%8A%BF%E9%9D%A2%E8%A7%81%E6%97%A5%E6%9C%AC%E5%A4%A9%E7%9A%87%23&t=31&band_rank=2&Refer=top)
-   [热]
+1. [黄渤谈父母患老年痴呆](https://s.weibo.com//weibo?q=%E9%BB%84%E6%B8%A4%E8%B0%88%E7%88%B6%E6%AF%8D%E6%82%A3%E8%80%81%E5%B9%B4%E7%97%B4%E5%91%86&t=31&band_rank=2&Refer=top)
 1. [方浩明以亲身经历感知中国](https://s.weibo.com//weibo?q=%23%E6%96%B9%E6%B5%A9%E6%98%8E%E4%BB%A5%E4%BA%B2%E8%BA%AB%E7%BB%8F%E5%8E%86%E6%84%9F%E7%9F%A5%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=3&Refer=top)
-1. [许飞看到之后不得迷死啊](https://s.weibo.com//weibo?q=%23%E8%AE%B8%E9%A3%9E%E7%9C%8B%E5%88%B0%E4%B9%8B%E5%90%8E%E4%B8%8D%E5%BE%97%E8%BF%B7%E6%AD%BB%E5%95%8A%23&t=31&band_rank=4&Refer=top)
+1. [美股史诗级暴涨](https://s.weibo.com//weibo?q=%23%E7%BE%8E%E8%82%A1%E5%8F%B2%E8%AF%97%E7%BA%A7%E6%9A%B4%E6%B6%A8%23&t=31&band_rank=4&Refer=top)
+1. [Chovy不同意了](https://s.weibo.com//weibo?q=%23Chovy%E4%B8%8D%E5%90%8C%E6%84%8F%E4%BA%86%23&t=31&band_rank=5&Refer=top)
+1. [许飞只是来告别](https://s.weibo.com//weibo?q=%E8%AE%B8%E9%A3%9E%E5%8F%AA%E6%98%AF%E6%9D%A5%E5%91%8A%E5%88%AB&t=31&band_rank=6&Refer=top)
    [热]
-1. [嫁金钗忘删AI水印了](https://s.weibo.com//weibo?q=%E5%AB%81%E9%87%91%E9%92%97%E5%BF%98%E5%88%A0AI%E6%B0%B4%E5%8D%B0%E4%BA%86&t=31&band_rank=5&Refer=top)
+1. [金价急涨买还是卖](https://s.weibo.com//weibo?q=%E9%87%91%E4%BB%B7%E6%80%A5%E6%B6%A8%E4%B9%B0%E8%BF%98%E6%98%AF%E5%8D%96&t=31&band_rank=7&Refer=top)
+   [新]
+1. [英雄联盟回应GEN晋级](https://s.weibo.com//weibo?q=%23%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E5%9B%9E%E5%BA%94GEN%E6%99%8B%E7%BA%A7%23&t=31&band_rank=8&Refer=top)
+   [新]
+1. [高市早苗以怪异姿势面见日本天皇](https://s.weibo.com//weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E4%BB%A5%E6%80%AA%E5%BC%82%E5%A7%BF%E5%8A%BF%E9%9D%A2%E8%A7%81%E6%97%A5%E6%9C%AC%E5%A4%A9%E7%9A%87%23&t=31&band_rank=9&Refer=top)
+1. [小城良方的大结局是真实的人生](https://s.weibo.com//weibo?q=%E5%B0%8F%E5%9F%8E%E8%89%AF%E6%96%B9%E7%9A%84%E5%A4%A7%E7%BB%93%E5%B1%80%E6%98%AF%E7%9C%9F%E5%AE%9E%E7%9A%84%E4%BA%BA%E7%94%9F&t=31&band_rank=10&Refer=top)
+1. [大学生无偿代跑拒绝供出同学](https://s.weibo.com//weibo?q=%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%97%A0%E5%81%BF%E4%BB%A3%E8%B7%91%E6%8B%92%E7%BB%9D%E4%BE%9B%E5%87%BA%E5%90%8C%E5%AD%A6&t=31&band_rank=11&Refer=top)
+   [热]
+1. [厉娜三个前任都防着许飞](https://s.weibo.com//weibo?q=%23%E5%8E%89%E5%A8%9C%E4%B8%89%E4%B8%AA%E5%89%8D%E4%BB%BB%E9%83%BD%E9%98%B2%E7%9D%80%E8%AE%B8%E9%A3%9E%23&t=31&band_rank=12&Refer=top)
+   [新]
+1. [女儿初潮弄脏沙发爸爸送花安慰](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%84%BF%E5%88%9D%E6%BD%AE%E5%BC%84%E8%84%8F%E6%B2%99%E5%8F%91%E7%88%B8%E7%88%B8%E9%80%81%E8%8A%B1%E5%AE%89%E6%85%B0%23&t=31&band_rank=13&Refer=top)
+   [热]
+1. [丞磊被问理想型就差把名字说出来了](https://s.weibo.com//weibo?q=%23%E4%B8%9E%E7%A3%8A%E8%A2%AB%E9%97%AE%E7%90%86%E6%83%B3%E5%9E%8B%E5%B0%B1%E5%B7%AE%E6%8A%8A%E5%90%8D%E5%AD%97%E8%AF%B4%E5%87%BA%E6%9D%A5%E4%BA%86%23&t=31&band_rank=14&Refer=top)
+   [热]
+1. [大家都不接陌生电话不是好事](https://s.weibo.com//weibo?q=%E5%A4%A7%E5%AE%B6%E9%83%BD%E4%B8%8D%E6%8E%A5%E9%99%8C%E7%94%9F%E7%94%B5%E8%AF%9D%E4%B8%8D%E6%98%AF%E5%A5%BD%E4%BA%8B&t=31&band_rank=15&Refer=top)
+1. [这是人类可以承受的文字吗](https://s.weibo.com//weibo?q=%E8%BF%99%E6%98%AF%E4%BA%BA%E7%B1%BB%E5%8F%AF%E4%BB%A5%E6%89%BF%E5%8F%97%E7%9A%84%E6%96%87%E5%AD%97%E5%90%97&t=31&band_rank=16&Refer=top)
+1. [网传马嘉祺饰演飞驰人生张雪少年时期](https://s.weibo.com//weibo?q=%E7%BD%91%E4%BC%A0%E9%A9%AC%E5%98%89%E7%A5%BA%E9%A5%B0%E6%BC%94%E9%A3%9E%E9%A9%B0%E4%BA%BA%E7%94%9F%E5%BC%A0%E9%9B%AA%E5%B0%91%E5%B9%B4%E6%97%B6%E6%9C%9F&t=31&band_rank=17&Refer=top)
+   [新]
+1. [向太回应孙子孙女财产分配](https://s.weibo.com//weibo?q=%23%E5%90%91%E5%A4%AA%E5%9B%9E%E5%BA%94%E5%AD%99%E5%AD%90%E5%AD%99%E5%A5%B3%E8%B4%A2%E4%BA%A7%E5%88%86%E9%85%8D%23&t=31&band_rank=18&Refer=top)
+1. [油价重挫原因](https://s.weibo.com//weibo?q=%23%E6%B2%B9%E4%BB%B7%E9%87%8D%E6%8C%AB%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=19&Refer=top)
+   [新]
+1. [董宇辉官宣自营品牌禾与春时](https://s.weibo.com//weibo?q=%23%E8%91%A3%E5%AE%87%E8%BE%89%E5%AE%98%E5%AE%A3%E8%87%AA%E8%90%A5%E5%93%81%E7%89%8C%E7%A6%BE%E4%B8%8E%E6%98%A5%E6%97%B6%23&t=31&band_rank=20&Refer=top)
+   [新]
+1. [76人活塞爆发冲突](https://s.weibo.com//weibo?q=%2376%E4%BA%BA%E6%B4%BB%E5%A1%9E%E7%88%86%E5%8F%91%E5%86%B2%E7%AA%81%23&t=31&band_rank=21&Refer=top)
+   [新]
+1. [内存涨价就是为了做这些东西吗](https://s.weibo.com//weibo?q=%23%E5%86%85%E5%AD%98%E6%B6%A8%E4%BB%B7%E5%B0%B1%E6%98%AF%E4%B8%BA%E4%BA%86%E5%81%9A%E8%BF%99%E4%BA%9B%E4%B8%9C%E8%A5%BF%E5%90%97%23&t=31&band_rank=22&Refer=top)
+   [新]
+1. [张萌真的是一个很有眼光的妙人](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E8%90%8C%E7%9C%9F%E7%9A%84%E6%98%AF%E4%B8%80%E4%B8%AA%E5%BE%88%E6%9C%89%E7%9C%BC%E5%85%89%E7%9A%84%E5%A6%99%E4%BA%BA%23&t=31&band_rank=23&Refer=top)
+1. [同学卖上海房回老家引争议](https://s.weibo.com//weibo?q=%E5%90%8C%E5%AD%A6%E5%8D%96%E4%B8%8A%E6%B5%B7%E6%88%BF%E5%9B%9E%E8%80%81%E5%AE%B6%E5%BC%95%E4%BA%89%E8%AE%AE&t=31&band_rank=24&Refer=top)
+1. [后会友期排期好崩溃](https://s.weibo.com//weibo?q=%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E6%8E%92%E6%9C%9F%E5%A5%BD%E5%B4%A9%E6%BA%83&t=31&band_rank=25&Refer=top)
+1. [民主党拟结束伊朗战争](https://s.weibo.com//weibo?q=%E6%B0%91%E4%B8%BB%E5%85%9A%E6%8B%9F%E7%BB%93%E6%9D%9F%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89&t=31&band_rank=26&Refer=top)
+   [新]
+1. [深圳禁鸣喇叭后司机花式鸣笛](https://s.weibo.com//weibo?q=%23%E6%B7%B1%E5%9C%B3%E7%A6%81%E9%B8%A3%E5%96%87%E5%8F%AD%E5%90%8E%E5%8F%B8%E6%9C%BA%E8%8A%B1%E5%BC%8F%E9%B8%A3%E7%AC%9B%23&t=31&band_rank=27&Refer=top)
+   [新]
+1. [曝勇士拒绝给波尔津吉斯支付薪水](https://s.weibo.com//weibo?q=%23%E6%9B%9D%E5%8B%87%E5%A3%AB%E6%8B%92%E7%BB%9D%E7%BB%99%E6%B3%A2%E5%B0%94%E6%B4%A5%E5%90%89%E6%96%AF%E6%94%AF%E4%BB%98%E8%96%AA%E6%B0%B4%23&t=31&band_rank=28&Refer=top)
+1. [福建舰这一弹有多猛](https://s.weibo.com//weibo?q=%23%E7%A6%8F%E5%BB%BA%E8%88%B0%E8%BF%99%E4%B8%80%E5%BC%B9%E6%9C%89%E5%A4%9A%E7%8C%9B%23&t=31&band_rank=29&Refer=top)
+   [新]
+1. [没想到脂肪肝和抑郁症有关系](https://s.weibo.com//weibo?q=%23%E6%B2%A1%E6%83%B3%E5%88%B0%E8%84%82%E8%82%AA%E8%82%9D%E5%92%8C%E6%8A%91%E9%83%81%E7%97%87%E6%9C%89%E5%85%B3%E7%B3%BB%23&t=31&band_rank=30&Refer=top)
+1. [嫁金钗忘删AI水印了](https://s.weibo.com//weibo?q=%E5%AB%81%E9%87%91%E9%92%97%E5%BF%98%E5%88%A0AI%E6%B0%B4%E5%8D%B0%E4%BA%86&t=31&band_rank=31&Refer=top)
+1. [向芷蹦着踩脸向佐都不带生气的](https://s.weibo.com//weibo?q=%23%E5%90%91%E8%8A%B7%E8%B9%A6%E7%9D%80%E8%B8%A9%E8%84%B8%E5%90%91%E4%BD%90%E9%83%BD%E4%B8%8D%E5%B8%A6%E7%94%9F%E6%B0%94%E7%9A%84%23&t=31&band_rank=32&Refer=top)
+   [新]
+1. [马兴瑞被提起公诉](https://s.weibo.com//weibo?q=%23%E9%A9%AC%E5%85%B4%E7%91%9E%E8%A2%AB%E6%8F%90%E8%B5%B7%E5%85%AC%E8%AF%89%23&t=31&band_rank=33&Refer=top)
+   [新]
+1. [张萌不愧是音乐世家出身](https://s.weibo.com//weibo?q=%23%E5%BC%A0%E8%90%8C%E4%B8%8D%E6%84%A7%E6%98%AF%E9%9F%B3%E4%B9%90%E4%B8%96%E5%AE%B6%E5%87%BA%E8%BA%AB%23&t=31&band_rank=34&Refer=top)
+   [新]
+1. [上厕所被偷拍受害者发声](https://s.weibo.com//weibo?q=%23%E4%B8%8A%E5%8E%95%E6%89%80%E8%A2%AB%E5%81%B7%E6%8B%8D%E5%8F%97%E5%AE%B3%E8%80%85%E5%8F%91%E5%A3%B0%23&t=31&band_rank=35&Refer=top)
+   [新]
+1. [控Kong聊天记录曝光](https://s.weibo.com//weibo?q=%23%E6%8E%A7Kong%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%E6%9B%9D%E5%85%89%23&t=31&band_rank=36&Refer=top)
+1. [外国网友被中国留学生牛肉面馋到](https://s.weibo.com//weibo?q=%E5%A4%96%E5%9B%BD%E7%BD%91%E5%8F%8B%E8%A2%AB%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E7%89%9B%E8%82%89%E9%9D%A2%E9%A6%8B%E5%88%B0&t=31&band_rank=37&Refer=top)
+1. [延安大学](https://s.weibo.com//weibo?q=%E5%BB%B6%E5%AE%89%E5%A4%A7%E5%AD%A6&t=31&band_rank=38&Refer=top) [新]
+1. [得了脂肪肝咋办](https://s.weibo.com//weibo?q=%23%E5%BE%97%E4%BA%86%E8%84%82%E8%82%AA%E8%82%9D%E5%92%8B%E5%8A%9E%23&t=31&band_rank=39&Refer=top)
+1. [LYON没帮iG打出东西](https://s.weibo.com//weibo?q=%23LYON%E6%B2%A1%E5%B8%AEiG%E6%89%93%E5%87%BA%E4%B8%9C%E8%A5%BF%23&t=31&band_rank=40&Refer=top)
+   [新]
+1. [树直径500米是什么概念](https://s.weibo.com//weibo?q=%E6%A0%91%E7%9B%B4%E5%BE%84500%E7%B1%B3%E6%98%AF%E4%BB%80%E4%B9%88%E6%A6%82%E5%BF%B5&t=31&band_rank=41&Refer=top)
+1. [肖战史彭元合照](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E5%8F%B2%E5%BD%AD%E5%85%83%E5%90%88%E7%85%A7%23&t=31&band_rank=42&Refer=top)
+   [新]
+1. [GEN战胜LYON](https://s.weibo.com//weibo?q=GEN%E6%88%98%E8%83%9CLYON&t=31&band_rank=43&Refer=top)
+1. [原来这种灯会让人变胖](https://s.weibo.com//weibo?q=%E5%8E%9F%E6%9D%A5%E8%BF%99%E7%A7%8D%E7%81%AF%E4%BC%9A%E8%AE%A9%E4%BA%BA%E5%8F%98%E8%83%96&t=31&band_rank=44&Refer=top)
+1. [一觉醒来金饰价格暴涨](https://s.weibo.com//weibo?q=%23%E4%B8%80%E8%A7%89%E9%86%92%E6%9D%A5%E9%87%91%E9%A5%B0%E4%BB%B7%E6%A0%BC%E6%9A%B4%E6%B6%A8%23&t=31&band_rank=45&Refer=top)
+   [新]
+1. [黄子韬出差徐艺洋的独居vlog](https://s.weibo.com//weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%87%BA%E5%B7%AE%E5%BE%90%E8%89%BA%E6%B4%8B%E7%9A%84%E7%8B%AC%E5%B1%85vlog%23&t=31&band_rank=46&Refer=top)
+1. [男生代课冒充男友遇上真男友](https://s.weibo.com//weibo?q=%E7%94%B7%E7%94%9F%E4%BB%A3%E8%AF%BE%E5%86%92%E5%85%85%E7%94%B7%E5%8F%8B%E9%81%87%E4%B8%8A%E7%9C%9F%E7%94%B7%E5%8F%8B&t=31&band_rank=47&Refer=top)
+1. [厉娜回应粉丝](https://s.weibo.com//weibo?q=%23%E5%8E%89%E5%A8%9C%E5%9B%9E%E5%BA%94%E7%B2%89%E4%B8%9D%23&t=31&band_rank=48&Refer=top)
+   [新]
+1. [有人把手机密码设成手机生日](https://s.weibo.com//weibo?q=%E6%9C%89%E4%BA%BA%E6%8A%8A%E6%89%8B%E6%9C%BA%E5%AF%86%E7%A0%81%E8%AE%BE%E6%88%90%E6%89%8B%E6%9C%BA%E7%94%9F%E6%97%A5&t=31&band_rank=49&Refer=top)
+1. [脂肪肝是全身代谢紊乱的预警信号](https://s.weibo.com//weibo?q=%23%E8%84%82%E8%82%AA%E8%82%9D%E6%98%AF%E5%85%A8%E8%BA%AB%E4%BB%A3%E8%B0%A2%E7%B4%8A%E4%B9%B1%E7%9A%84%E9%A2%84%E8%AD%A6%E4%BF%A1%E5%8F%B7%23&t=31&band_rank=50&Refer=top)
+1. [许飞看到之后不得迷死啊](https://s.weibo.com//weibo?q=%23%E8%AE%B8%E9%A3%9E%E7%9C%8B%E5%88%B0%E4%B9%8B%E5%90%8E%E4%B8%8D%E5%BE%97%E8%BF%B7%E6%AD%BB%E5%95%8A%23&t=31&band_rank=4&Refer=top)
    [热]
 1. [肖战大战AI短剧的时代](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E5%A4%A7%E6%88%98AI%E7%9F%AD%E5%89%A7%E7%9A%84%E6%97%B6%E4%BB%A3%23&t=31&band_rank=6&Refer=top)
 1. [成毅推介会压轴登场](https://s.weibo.com//weibo?q=%23%E6%88%90%E6%AF%85%E6%8E%A8%E4%BB%8B%E4%BC%9A%E5%8E%8B%E8%BD%B4%E7%99%BB%E5%9C%BA%23&t=31&band_rank=7&Refer=top)
 1. [温瑞博vs王楚钦](https://s.weibo.com//weibo?q=%23%E6%B8%A9%E7%91%9E%E5%8D%9Avs%E7%8E%8B%E6%A5%9A%E9%92%A6%23&t=31&band_rank=8&Refer=top)
-1. [没想到脂肪肝和抑郁症有关系](https://s.weibo.com//weibo?q=%23%E6%B2%A1%E6%83%B3%E5%88%B0%E8%84%82%E8%82%AA%E8%82%9D%E5%92%8C%E6%8A%91%E9%83%81%E7%97%87%E6%9C%89%E5%85%B3%E7%B3%BB%23&t=31&band_rank=9&Refer=top)
 1. [韩网吐槽没有年轻人演了吗](https://s.weibo.com//weibo?q=%E9%9F%A9%E7%BD%91%E5%90%90%E6%A7%BD%E6%B2%A1%E6%9C%89%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%BC%94%E4%BA%86%E5%90%97&t=31&band_rank=10&Refer=top)
-1. [女儿初潮弄脏沙发爸爸送花安慰](https://s.weibo.com//weibo?q=%23%E5%A5%B3%E5%84%BF%E5%88%9D%E6%BD%AE%E5%BC%84%E8%84%8F%E6%B2%99%E5%8F%91%E7%88%B8%E7%88%B8%E9%80%81%E8%8A%B1%E5%AE%89%E6%85%B0%23&t=31&band_rank=11&Refer=top)
-   [热]
 1. [美股](https://s.weibo.com//weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=12&Refer=top)
 1. [肖战也画地为牢了](https://s.weibo.com//weibo?q=%23%E8%82%96%E6%88%98%E4%B9%9F%E7%94%BB%E5%9C%B0%E4%B8%BA%E7%89%A2%E4%BA%86%23&t=31&band_rank=13&Refer=top)
 1. [叶非夜实名举报郭宇欣偷税漏税](https://s.weibo.com//weibo?q=%23%E5%8F%B6%E9%9D%9E%E5%A4%9C%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%E9%83%AD%E5%AE%87%E6%AC%A3%E5%81%B7%E7%A8%8E%E6%BC%8F%E7%A8%8E%23&t=31&band_rank=14&Refer=top)
@@ -43,10 +107,8 @@
 1. [花8万坐月子产后两个月伤口还流脓](https://s.weibo.com//weibo?q=%23%E8%8A%B18%E4%B8%87%E5%9D%90%E6%9C%88%E5%AD%90%E4%BA%A7%E5%90%8E%E4%B8%A4%E4%B8%AA%E6%9C%88%E4%BC%A4%E5%8F%A3%E8%BF%98%E6%B5%81%E8%84%93%23&t=31&band_rank=18&Refer=top)
 1. [郭宇欣将起诉叶非夜](https://s.weibo.com//weibo?q=%23%E9%83%AD%E5%AE%87%E6%AC%A3%E5%B0%86%E8%B5%B7%E8%AF%89%E5%8F%B6%E9%9D%9E%E5%A4%9C%23&t=31&band_rank=19&Refer=top)
 1. [高市早苗举止怪异被批丢人](https://s.weibo.com//weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E4%B8%BE%E6%AD%A2%E6%80%AA%E5%BC%82%E8%A2%AB%E6%89%B9%E4%B8%A2%E4%BA%BA%23&t=31&band_rank=20&Refer=top)
-1. [同学卖上海房回老家引争议](https://s.weibo.com//weibo?q=%E5%90%8C%E5%AD%A6%E5%8D%96%E4%B8%8A%E6%B5%B7%E6%88%BF%E5%9B%9E%E8%80%81%E5%AE%B6%E5%BC%95%E4%BA%89%E8%AE%AE&t=31&band_rank=21&Refer=top)
 1. [民主党重掌美国国会意味着什么](https://s.weibo.com//weibo?q=%23%E6%B0%91%E4%B8%BB%E5%85%9A%E9%87%8D%E6%8E%8C%E7%BE%8E%E5%9B%BD%E5%9B%BD%E4%BC%9A%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88%23&t=31&band_rank=22&Refer=top)
 1. [原来大家都是这样消除怨气的](https://s.weibo.com//weibo?q=%E5%8E%9F%E6%9D%A5%E5%A4%A7%E5%AE%B6%E9%83%BD%E6%98%AF%E8%BF%99%E6%A0%B7%E6%B6%88%E9%99%A4%E6%80%A8%E6%B0%94%E7%9A%84&t=31&band_rank=23&Refer=top)
-1. [男生代课冒充男友遇上真男友](https://s.weibo.com//weibo?q=%E7%94%B7%E7%94%9F%E4%BB%A3%E8%AF%BE%E5%86%92%E5%85%85%E7%94%B7%E5%8F%8B%E9%81%87%E4%B8%8A%E7%9C%9F%E7%94%B7%E5%8F%8B&t=31&band_rank=24&Refer=top)
 1. [小孩都知道买东西是隐形家务](https://s.weibo.com//weibo?q=%E5%B0%8F%E5%AD%A9%E9%83%BD%E7%9F%A5%E9%81%93%E4%B9%B0%E4%B8%9C%E8%A5%BF%E6%98%AF%E9%9A%90%E5%BD%A2%E5%AE%B6%E5%8A%A1&t=31&band_rank=25&Refer=top)
 1. [从什么时候发现婆婆不是善茬](https://s.weibo.com//weibo?q=%E4%BB%8E%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E5%8F%91%E7%8E%B0%E5%A9%86%E5%A9%86%E4%B8%8D%E6%98%AF%E5%96%84%E8%8C%AC&t=31&band_rank=26&Refer=top)
 1. [刘亦菲曾轶可入选破冰名单](https://s.weibo.com//weibo?q=%E5%88%98%E4%BA%A6%E8%8F%B2%E6%9B%BE%E8%BD%B6%E5%8F%AF%E5%85%A5%E9%80%89%E7%A0%B4%E5%86%B0%E5%90%8D%E5%8D%95&t=31&band_rank=27&Refer=top)
